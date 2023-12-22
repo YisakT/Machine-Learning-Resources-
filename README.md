@@ -14,4 +14,4 @@ Welcome to the Machine Learning Resources repository! This space is dedicated to
 To get started, clone this repository to your local machine using:
 
 ```bash
-git clone https://github.com/YisakT/Machine-Learning-Resources
+git clone https://github.com/YisakT/Machine-Learning-Resources-
